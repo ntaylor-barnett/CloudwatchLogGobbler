@@ -1,4 +1,5 @@
 # CloudwatchLogGobbler
+!(https://media.giphy.com/media/SRx5tBBrTQOBi/giphy.gif)
 The hackiest way to just eat Cloudwatch logs for breakfast, lunch and dinner
 
 Give it cloudwatch log triggers and it will dump the message to its own log via the console.
